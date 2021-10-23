@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CineraM
-- 👀 I’m interested in Game / webiste design
+- 👀 I’m interested in Game / web design
 - 🌱 I’m currently learning C# Unity, python Scipy&numpy
 - 📫 How to reach me: 
 https://www.linkedin.com/in/matias-cinera/
