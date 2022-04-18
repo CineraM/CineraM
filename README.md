@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matias
+- 👋 Hi, I’m Matias. Im a Senior Computer Science Student at University of South Florida
 - 👀 I’m interested in Game / Web design
 - 🌱 I’m currently learning C# .NET - Unity / Python Scipy - numpy - torch - flask
 - 📫 How to reach me: 
