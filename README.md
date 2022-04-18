@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CineraM
+- 👋 Hi, I’m Matias
 - 👀 I’m interested in Game / Web design
 - 🌱 I’m currently learning C# .NET - Unity / Python Scipy - numpy - torch - flask
 - 📫 How to reach me: 
