@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning  NodeJS - React - CSS / C# .NET - Unity / Python - flask - matplotlib
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/matias-cinera/  
-  - Discord: CineraM #3554  
   - Email: CineraMatias@gmail.com / cinera@usf.edu
+  - - Discord: CineraM #3554  
 
 <!---
 CineraM/CineraM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
