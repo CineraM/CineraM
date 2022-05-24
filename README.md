@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/matias-cinera/  
   - Email: CineraMatias@gmail.com / cinera@usf.edu
-  - - Discord: CineraM #3554  
+  - Discord: CineraM #3554  
 
 <!---
 CineraM/CineraM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
