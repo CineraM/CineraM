@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Matias. Im a Senior Computer Science Student at University of South Florida
 - 👀 I’m interested Web Design/Development / Application design / Game Design
 - 🌱 I’m currently learning  NodeJS - React - CSS / C# .NET - Unity / Python - flask - matplotlib
+- Leetcode acc: https://leetcode.com/cineramatias/ 
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/matias-cinera/  
   - Email: CineraMatias@hotmail.com / cinera@usf.edu
