@@ -4,7 +4,7 @@
 - 💻 Leetcode acc: https://leetcode.com/cineramatias/ 
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/matias-cinera/  
-  - Email: CineraMatias@hotmail.com / cinera@usf.edu
+  - Email: matiascinera.inquires@gmail.com / cinera@usf.edu
   - Discord: CineraM #3554  
 
 <!---
