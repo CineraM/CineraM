@@ -11,3 +11,4 @@
 CineraM/CineraM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+https://prod.liveshare.vsengsaas.visualstudio.com/join?18B4FB3E5D1623D20F99CA44E123E257CCD8
